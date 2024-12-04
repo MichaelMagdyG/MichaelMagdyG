@@ -21,7 +21,7 @@ This is a space where I share my projects, ideas, and explorations in the world 
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=false&vCenter=true&width=450&duration=1500&pause=1000&lines=English;Arabic" width="auto" height="35"/>
 
 - **My interests:**
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=false&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Web+Development;Software+Development;Cybersecurity;Cloud+Computing;Game+Development;DevOps;Data+Visualization;Embedded+Systems;Mobile+Application+Development;Open+Source;Networking;Agile+Methodologies" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=false&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Web+Development;Software+Development;Cybersecurity;Cloud+Computing;Game+Development;DevOps;Data+Visualization;Embedded+Systems;Mobile+Application+Development;Open+Source;Networking;Agile+Methodologies" width="auto" height="35"/>
 
 ---
 
