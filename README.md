@@ -1,3 +1,6 @@
+
+<p align="center"> <a href="https://buymeacoffee.com/walle84h" target="_blank"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /> </a> </p>
+
 ---
 
 # Michael's Repository
@@ -199,3 +202,4 @@ This script is provided as-is. Feel free to modify and use it for your personal 
 **Let’s create and innovate together!**  
 
 ---
+<p align="center"> <a href="https://buymeacoffee.com/walle84h" target="_blank"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /> </a> </p>
