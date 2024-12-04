@@ -205,3 +205,6 @@ This script is provided as-is. Feel free to modify and use it for your personal 
 
 ---
 <p align="center"> <a href="https://buymeacoffee.com/walle84h" target="_blank"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /> </a> </p>
+
+
+<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
