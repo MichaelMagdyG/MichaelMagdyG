@@ -1,6 +1,4 @@
-
-<p align="center"> <a href="https://buymeacoffee.com/walle84h" target="_blank"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /> </a> </p>
-
+<!-- To use this, all you have to do is press Ctrl + Shift + V -->
 ---
 
 # Michael's Repository
@@ -13,14 +11,12 @@ This is a space where I share my projects, ideas, and explorations in the world 
 
 ---
 
-# Michael Mikhail
+## 💁‍♂️ About Me
 
 - **Name:** Michael Mikhail  
 - **Background:** Diploma of Information Technology (ICT50220) student at TasCollege (Aug 2024 - Aug 2025).  
-- **Languages:**  
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=false&vCenter=true&width=450&duration=1500&pause=1000&lines=English;Arabic" width="auto" height="35"/>
-- **My interests:**  
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=false&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Web+Development;Software+Development;Cybersecurity;Cloud+Computing;Game+Development;DevOps;Data+Visualization;Embedded+Systems;Mobile+Application+Development;Open+Source;Networking;Agile+Methodologies" width="auto" height="35"/>
+- **Languages:** Arabic, English  
+- **Interests:** Technology, software development, and continuous learning to excel in the IT industry.  
 
 ---
 
@@ -194,17 +190,8 @@ I am grateful to my mentors, colleagues, and the IT community for their support 
   <img src="https://komarev.com/ghpvc/?username=MichaelMagdyG&label=PROFILE%20VIEWS&color=ff6ec7&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
-
-## License
-This script is provided as-is. Feel free to modify and use it for your personal or educational purposes.
 
 ---
 
 **Let’s create and innovate together!**  
 
----
-<p align="center"> <a href="https://buymeacoffee.com/walle84h" target="_blank"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /> </a> </p>
-
-
-<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
