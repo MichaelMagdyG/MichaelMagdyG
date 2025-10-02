@@ -14,7 +14,7 @@ This is a space where I share my projects, ideas, and explorations in the world 
 ## 💁‍♂️ About Me
 
 - **Name:** Michael Mikhail  
-- **Background:** Advanced Diploma of Information Technology ICT60220 student at TasCollege (Sep 2024 - Mar 2027).  
+- **Background:** Advanced Diploma of Information Technology (ICT60220) student at TasCollege (Sep 2024 - Mar 2027).  
 - **Languages:** Arabic, English  
 - **Interests:** Technology, software development, and continuous learning to excel in the IT industry.  
 
@@ -194,6 +194,7 @@ I am grateful to my mentors, colleagues, and the IT community for their support 
 ---
 
 **Let’s create and innovate together!**  
+
 
 
 
