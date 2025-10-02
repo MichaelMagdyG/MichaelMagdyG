@@ -1,4 +1,4 @@
-<!-- To use this, all you have to do is press Ctrl + Shift + V -->
+<!-- To use this in Visual Code, all you have to do is press Ctrl + Shift + V -->
 ---
 
 # Michael's Repository
@@ -194,5 +194,6 @@ I am grateful to my mentors, colleagues, and the IT community for their support 
 ---
 
 **Let’s create and innovate together!**  
+
 
 
