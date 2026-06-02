@@ -126,17 +126,6 @@ This repository includes:
 
 ## 📊 Profile Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMagdyG&layout=compact&theme=radical&title_color=ff6ec7&text_color=ffffff&bg_color=151515&card_width=500" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=MichaelMagdyG&show_icons=true&custom_title=Michael%27s%20GitHub%20Stats&theme=radical&title_color=ff6ec7&icon_color=79ff97&text_color=ffffff&bg_color=151515" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelMagdyG&theme=radical&fire=ff6ec7&ring=79ff97&text_color=ffffff&background=151515&stroke=303030&custom_title=Michael%27s%20GitHub%20Streak" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MichaelMagdyG&label=PROFILE%20VIEWS&color=ff6ec7&style=for-the-badge" />
