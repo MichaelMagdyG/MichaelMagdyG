@@ -16,8 +16,7 @@ Whether you’re here to **collaborate, learn, or explore**, I hope you find som
 
 ## 👨‍💻 About Me  
 
-- **Name:** Michael Mikhail  
-- **Currently:** Advanced Diploma of Information Technology (ICT60220) student at **TasCollege** (2024–2027)  
+- **Name:** мικε  
 - **Languages:** Arabic & English  
 - **Passion:** Building innovative solutions, exploring emerging tech, and continuous learning in the IT world  
 
