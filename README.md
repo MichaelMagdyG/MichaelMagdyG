@@ -1,28 +1,27 @@
 <!-- To preview in VS Code: Ctrl + Shift + V -->
 
-# 🌟 Michael's Repository
+# 🌟 мικε's Repository
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=Hi+%F0%9F%91%8B;Welcome+to+my+GitHub+repository!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=600&lines=Hi+there!;I+build+apps+and+solve+problems+with+code." alt="Typing SVG" />
 </p>
 
-Welcome to my GitHub! 🚀  
-This is where I share projects, ideas, and explorations in **Information Technology and Software Development**.  
-Whether you’re here to **collaborate, learn, or explore**, I hope you find something valuable.  
+Welcome to my GitHub profile! 🚀
+
+I’m a multilingual software engineer with a strong focus on full-stack development, AI/ML, and cloud-native solutions. This repository is a home for my projects, scripts, and learning resources.
 
 ---
 
 ## 👨‍💻 About Me  
 
-- **Name:** мικε  
+- **Name:** мικε
 - **Languages:** Arabic & English  
-- **Passion:** Building innovative solutions, exploring emerging tech, and continuous learning in the IT world  
+- **Focus areas:** Web apps, automation, BPM/workflow solutions, cloud platforms, and machine learning
+- **Approach:** Practical, collaborative, and constantly learning
 
 ---
 
-## 💡 Languages & Tools  
+## 💡 Skills & Technologies
 
 ### Programming  
 
@@ -55,18 +54,13 @@ Whether you’re here to **collaborate, learn, or explore**, I hope you find som
   <img src="https://img.shields.io/badge/OpenAI-1F1F1F?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### Databases  
+### Data & Cloud
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
-
-### Tools / Platforms  
-
-<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -74,7 +68,7 @@ Whether you’re here to **collaborate, learn, or explore**, I hope you find som
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-### DevOps & CI/CD  
+### DevOps & Testing
 
 <p align="center">
   <img src="https://img.shields.io/badge/CircleCI-00A9B5?style=for-the-badge&logo=circleci&logoColor=white" />
@@ -82,11 +76,6 @@ Whether you’re here to **collaborate, learn, or explore**, I hope you find som
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
-
-### Testing  
-
-<p align="center">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
@@ -94,17 +83,17 @@ Whether you’re here to **collaborate, learn, or explore**, I hope you find som
 
 ---
 
-## 📂 Repository Content  
+## 📂 What’s inside this repository
 
-This repository includes:  
+- **Projects:** Real-world applications, diploma work, and portfolio builds
+- **Scripts:** Automation, tooling helpers, and reusable code snippets
+- **Guides:** Notes, tutorials, and documentation for IT learners and developers
 
-- **Projects** – Diploma assignments, coding challenges, and personal builds  
-- **Scripts** – Automation tools & reusable snippets  
-- **Documentation** – Guides and resources for IT professionals and students  
+> Note: This repo is actively growing. Check back often for new projects and BPM/workflow content from my GitHub Pages site.
 
 ---
 
-## 📬 Connect with Me  
+## 📬 Connect with me
 
 <p align="center">
   <a href="https://wa.me/61422749979" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -123,8 +112,7 @@ This repository includes:
 
 ---
 
-## 📊 Profile Stats  
-
+## 📊 Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MichaelMagdyG&label=PROFILE%20VIEWS&color=ff6ec7&style=for-the-badge" />
@@ -132,5 +120,5 @@ This repository includes:
 
 ---
 
-✨ **Let’s innovate and create something amazing together!** ✨
+✨ Let’s build something great together. ✨
 
