@@ -8,14 +8,13 @@
 
 Welcome to my GitHub profile! 🚀
 
-I’m a multilingual software engineer with a strong focus on full-stack development, AI/ML, and cloud-native solutions. This repository is a home for my projects, scripts, and learning resources.
+I’m a software engineer with a strong focus on full-stack development, AI/ML, and cloud-native solutions. This repository is a home for my projects, scripts, and learning resources.
 
 ---
 
 ## 👨‍💻 About Me  
 
 - **Name:** мικε
-- **Languages:** Arabic & English  
 - **Focus areas:** Web apps, automation, BPM/workflow solutions, cloud platforms, and machine learning
 - **Approach:** Practical, collaborative, and constantly learning
 
