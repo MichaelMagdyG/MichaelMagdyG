@@ -111,13 +111,18 @@ I’m a software engineer with a strong focus on full-stack development, AI/ML, 
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MichaelMagdyG&label=PROFILE%20VIEWS&color=ff6ec7&style=for-the-badge" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=michaelmagdyg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=michaelmagdyg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=michaelmagdyg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=michaelmagdyg&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/walle84h) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/profile/creators?u=215788160) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ✨ Let’s build something great together. ✨
 
