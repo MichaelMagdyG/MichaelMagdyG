@@ -28,6 +28,9 @@
   <a href="https://www.youtube.com/@xxx" target="_blank">
   <img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+  <a href="https://www.tiktok.com/@xxx" target="_blank">
+  <img alt="TikTok" title="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
