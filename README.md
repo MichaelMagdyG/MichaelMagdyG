@@ -1,22 +1,5 @@
-<!-- To preview in VS Code: Ctrl + Shift + V -->
-
-# 🌟 мικε's Repository
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=600&lines=Hi+there!;I+build+apps+and+solve+problems+with+code." alt="Typing SVG" />
-</p>
-
-Welcome to my GitHub profile! 🚀
-
-I’m a software engineer with a strong focus on full-stack development, AI/ML, and cloud-native solutions. This repository is a home for my projects, scripts, and learning resources.
-
----
-
-## 👨‍💻 About Me  
-
-- **Name:** мικε
-- **Focus areas:** Web apps, automation, BPM/workflow solutions, cloud platforms, and machine learning
-- **Approach:** Practical, collaborative, and constantly learning
+# 💫 About Me:
+🔭 I’m currently working on<br>Building software engineering projects, backend systems, and automation tools as part of my IT studies and personal development.<br><br>👯 I’m looking to collaborate on<br>Open-source projects in backend development, cybersecurity, system tools, and practical software engineering solutions.<br><br>🤝 I’m looking for help with<br>Cloud infrastructure, advanced DevOps practices, and scalable system design.<br><br>🌱 I’m currently learning<br>Cloud computing, cybersecurity fundamentals, and modern backend architecture patterns.<br><br>💬 Ask me about<br>Python, Linux, networking, software engineering workflows, and studying IT in Australia.<br><br>⚡ Fun fact<br>I work fluently in both Arabic and English and enjoy breaking complex systems down into simple, logical parts.
 
 ---
 
