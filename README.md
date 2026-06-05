@@ -102,7 +102,7 @@
 [![](https://komarev.com/ghpvc/?username=michaelmagdyg&icon=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/walle84h) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](/https://www.patreon.com/profile/creators?u=215788160) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/walle84h) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/profile/creators?u=215788160) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
