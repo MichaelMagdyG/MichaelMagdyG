@@ -96,8 +96,9 @@
 
 > [!WARNING]
 This repo is actively growing. Check back often for new projects and BPM/workflow content from my GitHub Pages site.
-# GitHub Admonitions (Callouts)
-<!-- > [!NOTE]
+
+<!-- > # GitHub Admonitions (Callouts)
+[!NOTE]
 > Example note
 ---
 > [!TIP]
