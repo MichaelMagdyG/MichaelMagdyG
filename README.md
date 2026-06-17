@@ -1,11 +1,22 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on **building software engineering projects, backend systems, and automation tools** as part of my IT studies and personal development.
-- 👯 I’m looking to collaborate on **open-source projects in backend development, cybersecurity, system tools, and practical software engineering solutions.**
-- 🤝 I’m looking for help with **cloud infrastructure, advanced DevOps practices, and scalable system design.**
-- 🌱 I’m currently learning **cloud computing, cybersecurity fundamentals, and modern backend architecture patterns.**
-- 💬 Ask me about **Python, Linux, networking, software engineering workflows, and studying IT in Australia.**
-- ⚡ Fun fact: **I work fluently in both Arabic and English and enjoy breaking complex systems down into simple, logical parts.**
+> [!NOTE]
+> I’m currently working on building software engineering projects, backend systems, and automation tools as part of my IT studies and personal development.
+
+> [!TIP]
+> I’m looking to collaborate on open-source projects in backend development, cybersecurity, system tools, and practical software engineering solutions.
+
+> [!IMPORTANT]
+> I’m looking for help with cloud infrastructure, advanced DevOps practices, and scalable system design.
+
+> [!NOTE]
+> I’m currently learning cloud computing, cybersecurity fundamentals, and modern backend architecture patterns.
+
+> [!TIP]
+> Ask me about Python, Linux, networking, software engineering workflows, and studying IT in Australia.
+
+> [!NOTE]
+> I work fluently in both Arabic and English and enjoy breaking complex systems down into simple, logical parts.
 
 ---
 
