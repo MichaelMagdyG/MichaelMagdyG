@@ -95,7 +95,7 @@
 - **Guides:** Notes, tutorials, and documentation for IT learners and developers
 
 > [!WARNING]
-This repo is actively growing. Check back often for new projects and BPM/workflow content from my GitHub Pages site.
+> This repo is actively growing. Check back often for new projects and BPM/workflow content from my GitHub Pages site.
 
 ---
 
