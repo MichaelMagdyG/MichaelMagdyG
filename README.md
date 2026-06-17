@@ -94,8 +94,7 @@
 - **Scripts:** Automation, tooling helpers, and reusable code snippets
 - **Guides:** Notes, tutorials, and documentation for IT learners and developers
 
-> [!WARNING]
-> This repo is actively growing. Check back often for new projects and BPM/workflow content from my GitHub Pages site.
+> [!WARNING] This repo is actively growing. Check back often for new projects and BPM/workflow content from my GitHub Pages site.
 
 ---
 
